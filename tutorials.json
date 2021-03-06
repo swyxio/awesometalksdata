@@ -1,0 +1,112 @@
+{
+    "data": {
+      "tutorials": [
+        {
+          "id": "cjikejrgj09pl01848veyki0d",
+          "name": "Let's Create a GraphQL Server with MongoDB",
+          "price": 0,
+          "free": true,
+          "link": "7Gom91f1ans",
+          "description": "A GraphQLintroduction with MongoDB",
+          "materials": "Graphql & MongoDB",
+          "tutorialType": "Video",
+          "teacher": {
+            "id": "cjhubtccn2vd70191kcxou6ue",
+            "name": "Sara Vieira",
+            "bio": "International agent of JS Bullshit 🚀 Works for @YLDio ",
+            "topics": [
+              {
+                "id": "cjhq93bxy1ibq01208pxi4tba",
+                "topic": "React",
+                "stage": "PUBLISHED"
+              },
+              {
+                "id": "cjhq95byp1k6t01005z1blzsr",
+                "topic": "CSS",
+                "stage": "PUBLISHED"
+              },
+              {
+                "id": "cjhq9bbog1kmz0134ei9hj0nm",
+                "topic": "CSS in JS",
+                "stage": "PUBLISHED"
+              },
+              {
+                "id": "cjhq9hurf1oq30115vvf1gkp6",
+                "topic": "GraphQL",
+                "stage": "PUBLISHED"
+              },
+              {
+                "id": "cjhqaaf0c1yl40134u0r1qaj5",
+                "topic": "Preact",
+                "stage": "PUBLISHED"
+              }
+            ]
+          }
+        },
+        {
+          "id": "cjikeoslj0bo901371zn6dr5y",
+          "name": "GraphQL Basics",
+          "price": 0,
+          "free": true,
+          "link": "lAJWHHUz8_8",
+          "description": "Today, we're doing a GraphQL implementation from scratch, wrapping the GoodReads API in GraphQL, using node.js, express, express-graphql in JavaScript.",
+          "materials": "GraphQL",
+          "tutorialType": "Video",
+          "teacher": {
+            "id": "cjikentxv0bvh0102aog3sbod",
+            "name": "Matthias P Johansson ",
+            "bio": "I make Fun Fun Function, a fun and friendly monday morning YouTube show about programming: https://youtube.com/funfunfunction",
+            "topics": []
+          }
+        },
+        {
+          "id": "cjiketf2t0cu20171vpc6umb9",
+          "name": "Heres how React's New Context API Works",
+          "price": 0,
+          "free": true,
+          "link": "XLJN4JfniH4",
+          "description": "Here is a quick video explaining how React’s new context API works. Grab the code here → https://github.com/wesbos/React-Context",
+          "materials": "React 16",
+          "tutorialType": "Video",
+          "teacher": {
+            "id": "cjhomk4fp21yz0169n7aa3ap3",
+            "name": "Wes Bos",
+            "bio": "Fullstack Dev ❯ JS⚛ CSS Node ❯ https://ES6.io  ❯ https://LearnNode.com  ❯ http://ReactForBeginners.com  ❯ http://JavaScript30.com  ❯ 🔥 Tips ❯ ♥@KaitBos ❯ @SyntaxFM",
+            "topics": []
+          }
+        },
+        {
+          "id": "cjirw3pqr1jpo0195lmtpyrbn",
+          "name": "JavaScript's Nested Object Destructuring",
+          "price": 0,
+          "free": true,
+          "link": "_ApRMRGI-6g",
+          "description": "A quick video detailing how destructuring works with nested objects and arrays. Check out my https://ES6.io course for more!",
+          "materials": "ES6, JavaScript",
+          "tutorialType": "Video",
+          "teacher": {
+            "id": "cjhomk4fp21yz0169n7aa3ap3",
+            "name": "Wes Bos",
+            "bio": "Fullstack Dev ❯ JS⚛ CSS Node ❯ https://ES6.io  ❯ https://LearnNode.com  ❯ http://ReactForBeginners.com  ❯ http://JavaScript30.com  ❯ 🔥 Tips ❯ ♥@KaitBos ❯ @SyntaxFM",
+            "topics": []
+          }
+        },
+        {
+          "id": "cjirwgl2d1nxv019588y2od6t",
+          "name": "JavaScript in Half an Hour (Without jQuery!)",
+          "price": 0,
+          "free": true,
+          "link": "zPHerhks2Vg",
+          "description": "My front-end course: https://www.udemy.com/git-a-web-devel...\nMy new advanced WordPress course: https://www.udemy.com/become-a-wordpr...\n\nI'll be releasing two brand new JavaScript courses in 2018; join my newsletter to be notified as soon as they launch: https://learnwebcode.com/",
+          "materials": "JavaScript",
+          "tutorialType": "Video",
+          "teacher": {
+            "id": "cjirwev1n1mmj01061amt8yz7",
+            "name": "Brad Schiff",
+            "bio": "I help people learn HTML, CSS, JavaScript, and custom WordPress development",
+            "topics": []
+          }
+        }
+      ]
+    }
+  }

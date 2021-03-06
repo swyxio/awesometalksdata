@@ -1,0 +1,1619 @@
+{
+    "data": {
+      "tagses": [
+        {
+          "id": "cjhg07w6912d10185umgied60",
+          "name": "CSS",
+          "videos": [
+            {
+              "id": "cjhg8mk9q11530156mvvu60d3",
+              "name": "CSS Variables: var(--subtitle)"
+            },
+            {
+              "id": "cjhg8nzbj10fj0161thh8lvvb",
+              "name": "Big Bang Redesign: Smashing Magazine’s 2017 Relaunch"
+            },
+            {
+              "id": "cjhgyowuw1i1801365h77idxz",
+              "name": "Let’s Build a CSS Game"
+            },
+            {
+              "id": "cjhhumvru0kjp01953xlcjhjr",
+              "name": "CSS Grid changes everything"
+            },
+            {
+              "id": "cjhm3t8gc093l0155y7pt9f8w",
+              "name": "Styling React.js Applications"
+            },
+            {
+              "id": "cjqxy36f70xbp0147o7q2zj5x",
+              "name": "14 ways to bounce a ball: a tour of the web animations ecosystem"
+            }
+          ]
+        },
+        {
+          "id": "cjhg0901y12770162f0lf32t4",
+          "name": "Javascript",
+          "videos": [
+            {
+              "id": "cjhf9j2er0urt016927wrz7vu",
+              "name": "The Javascript Starter Kit Manifesto"
+            },
+            {
+              "id": "cjhf9feix0tvh0120dz5srd6y",
+              "name": "Perceived Performance: The only kind that really matters"
+            },
+            {
+              "id": "cjhf9aqx20sdj0104r5n6680l",
+              "name": "The Melting Pot of JavaScript"
+            },
+            {
+              "id": "cjhf8vqht0o6p01737jio0gjb",
+              "name": "Making Impossible States Impossible"
+            },
+            {
+              "id": "cjhf8hg6p0jxl0173ia18eu48",
+              "name": "In The Loop"
+            },
+            {
+              "id": "cjhf5k8k328kz0177muldcwb0",
+              "name": "What the heck is the event loop anyway?"
+            },
+            {
+              "id": "cjhf5gy6e27gc01872hkdqcd4",
+              "name": "On the Spectrum of Abstraction"
+            },
+            {
+              "id": "cjhf2zkim1hti0163b4ng1usx",
+              "name": "From jQuery to Flux to Elm"
+            },
+            {
+              "id": "cjhf2v1c61gh301773k5k49c4",
+              "name": "Complexity: Divide and Conquer!"
+            },
+            {
+              "id": "cjhf0zivf0urq01912ho8bgkw",
+              "name": " React: Rethinking best practices"
+            },
+            {
+              "id": "cjhf0xcao0un00199ln0r1ojp",
+              "name": "Stop Writing Code"
+            },
+            {
+              "id": "cjhf0k3cd0q260191jpfwbmmi",
+              "name": "A year of CodeSandbox"
+            },
+            {
+              "id": "cjhg1css01cwz0101qtjwibn2",
+              "name": "Evolution of a Developer"
+            },
+            {
+              "id": "cjhg1iaf31ei00101pympl4hw",
+              "name": "If you wish to learn ES6/2015 from scratch, you must first invent the universe"
+            },
+            {
+              "id": "cjhg2gn811nkx0101hfdmsh14",
+              "name": "Why Functional Programming Matters"
+            },
+            {
+              "id": "cjhg2zpub1tgo0151hb6blavw",
+              "name": "Shining a light"
+            },
+            {
+              "id": "cjhg8iubr100c0116k47e8cj8",
+              "name": "Building a Performant Web Application"
+            },
+            {
+              "id": "cjhg8k84110cy0134dam1xiaf",
+              "name": "Two Fundamental Abstractions"
+            },
+            {
+              "id": "cjhg8nzbj10fj0161thh8lvvb",
+              "name": "Big Bang Redesign: Smashing Magazine’s 2017 Relaunch"
+            },
+            {
+              "id": "cjhg9ksz71aoa0116xjh0q9ga",
+              "name": "Resilience"
+            },
+            {
+              "id": "cjhgjriqz24gw0171xdhdi7mf",
+              "name": "D3 & React"
+            },
+            {
+              "id": "cjhf8juu40lbn01864ral6d4v",
+              "name": "Wat"
+            },
+            {
+              "id": "cjhkjh99i1mua01919aybvmy3",
+              "name": "JavaScript, Virtual Machines, and the Cloud"
+            },
+            {
+              "id": "cjhkr7rnv1iil0171ype5pnjp",
+              "name": "Sacrificial Architecture in modern web development"
+            },
+            {
+              "id": "cjhlafo262881011394sn5rae",
+              "name": "Preact: Into the void 0"
+            },
+            {
+              "id": "cjhgjt4cz23yh0105jcxa9mgs",
+              "name": "Else Considered Harmful"
+            },
+            {
+              "id": "cjhgdkbhn002n01776yfg2pd0",
+              "name": "Learning Functional Programming with JavaScript"
+            },
+            {
+              "id": "cjhlb7xjf2km901080h6all2v",
+              "name": "V8 internals for JavaScript developers"
+            },
+            {
+              "id": "cjhf30omz1h7001998jyh5yrg",
+              "name": "Zero to 60 in Software Development: How to Jumpstart Your Career"
+            },
+            {
+              "id": "cjhnxywfv2m4s0193ixyuyxvm",
+              "name": "The Case for Whimsy"
+            },
+            {
+              "id": "cjhnvetea1mpk0155tao26ezw",
+              "name": "Outbreak: index-sw-9a4c43b4b4778e7d1ca619eaaf5ac1db.js"
+            },
+            {
+              "id": "cjhoy90gs01fg010602cpjw3n",
+              "name": "Webpack + WebAssembly: Under the hood"
+            },
+            {
+              "id": "cjhos37ys0x520157zb4pb90e",
+              "name": "Understanding the Differences Is Accepting"
+            },
+            {
+              "id": "cjhoal3gm0uhq0138cc7bun10",
+              "name": "What's in a language?"
+            },
+            {
+              "id": "cjhoakt7j0uuj0160pmt48xxm",
+              "name": "Taming the Meta Language"
+            },
+            {
+              "id": "cjhomohd824pr01427044m4py",
+              "name": "Async + Await"
+            },
+            {
+              "id": "cjhneov9f1oh4010643kii8kp",
+              "name": "JavaScript ♥ Unicode"
+            },
+            {
+              "id": "cjhlv8pb407jx019362xvqrdc",
+              "name": "How I ended up automating my curtains and shouting at my laptop"
+            },
+            {
+              "id": "cjhuojeez0ale0164ab5mc9dd",
+              "name": "Infinitely Better UIs with Finite Automata"
+            },
+            {
+              "id": "cjhr3vew308im0184vq7af8ws",
+              "name": "As simple as an AST"
+            },
+            {
+              "id": "cji00gtzl1nax0177v8f4d5bw",
+              "name": "JavaScript is a buffet, not the enemy "
+            },
+            {
+              "id": "cji00v7pl1scx0170zt1kdzyw",
+              "name": "JavaScript Masterclass"
+            },
+            {
+              "id": "cjhf7rlic0bt00120vwpbzupb",
+              "name": "Live React: Hot Reloading with Time Travel"
+            },
+            {
+              "id": "cjhf0p1e40sjq0173cl1f5fdk",
+              "name": "Bridging React Native Back to its Roots"
+            },
+            {
+              "id": "cji4c494d295o01206ruxl29u",
+              "name": "Is JavaScript Making Us Better Professionals?"
+            },
+            {
+              "id": "cji0nadrb0lxe0142eijawimi",
+              "name": "Who Gives a Fuck About a Monad? Functional Programming for People Who Hate Math"
+            },
+            {
+              "id": "cjhqe24cv075v0161ywpzhb5f",
+              "name": "Designing very large JavaScript applications"
+            },
+            {
+              "id": "cjhxulycn1ez901538k84s57q",
+              "name": "State Management in React Apps with Apollo Client"
+            },
+            {
+              "id": "cjk3uhm0z63kj0156oxxu2ivg",
+              "name": "The 7 Principles of rich web applications"
+            },
+            {
+              "id": "cjko541rk16hv0155f6fm23il",
+              "name": "See the data flowing through your app"
+            },
+            {
+              "id": "cjho08ccs05s80179ihujmn81",
+              "name": "Once you go PRPL..."
+            }
+          ]
+        },
+        {
+          "id": "cjhg094m612nx0185d3gnbqdk",
+          "name": "NodeJS",
+          "videos": [
+            {
+              "id": "cjhf9j2er0urt016927wrz7vu",
+              "name": "The Javascript Starter Kit Manifesto"
+            },
+            {
+              "id": "cjhf3ey2l1lwk0177edfkwxxx",
+              "name": "The journey of a package from the npm registry to your computer"
+            },
+            {
+              "id": "cjhhmhcs10mn80100i9hozto4",
+              "name": "REST, for real!"
+            },
+            {
+              "id": "cji3ay5l815y201399jq87dyf",
+              "name": "10 Things I Regret About Node.js"
+            },
+            {
+              "id": "cjhg8xrmd13vn0116v8u8cp6n",
+              "name": "Original Node.js presentation"
+            }
+          ]
+        },
+        {
+          "id": "cjhg09gx711vs01520uh3s6fp",
+          "name": "Performance",
+          "videos": [
+            {
+              "id": "cjhf9feix0tvh0120dz5srd6y",
+              "name": "Perceived Performance: The only kind that really matters"
+            },
+            {
+              "id": "cjhg8iubr100c0116k47e8cj8",
+              "name": "Building a Performant Web Application"
+            },
+            {
+              "id": "cjhg9ksz71aoa0116xjh0q9ga",
+              "name": "Resilience"
+            },
+            {
+              "id": "cjhk89qf10l3c0177ntgpwdqg",
+              "name": "Scaling Instagram Infrastructure"
+            },
+            {
+              "id": "cjhmb6jlq3m4g016431ehtgbz",
+              "name": "Optimizing an Angular Application"
+            },
+            {
+              "id": "cjho08ccs05s80179ihujmn81",
+              "name": "Once you go PRPL..."
+            }
+          ]
+        },
+        {
+          "id": "cjhg0aa14127j0186n3g5jscc",
+          "name": "Inspirational",
+          "videos": [
+            {
+              "id": "cjhf9c5fs0soq010447u7g3v2",
+              "name": " Idée Fixe"
+            },
+            {
+              "id": "cjhf97kc80rfl01202a4dknsi",
+              "name": "Things that Matter"
+            },
+            {
+              "id": "cjhf8a9b30hvm0173sy3qehhc",
+              "name": "Inventing on Principle"
+            },
+            {
+              "id": "cjhf5rbth29or0191vi2t4ute",
+              "name": "Hammock Driven Development"
+            },
+            {
+              "id": "cjhf5q7qx2awj0177co4qtetr",
+              "name": "Simple made easy"
+            },
+            {
+              "id": "cjhf5naox286x0191c10d0wt4",
+              "name": " The Future of Programming"
+            },
+            {
+              "id": "cjhf0uy590vbq0157xy7qvwnt",
+              "name": "I want you to contribute to open source"
+            },
+            {
+              "id": "cjhf0xcao0un00199ln0r1ojp",
+              "name": "Stop Writing Code"
+            },
+            {
+              "id": "cjhf0k3cd0q260191jpfwbmmi",
+              "name": "A year of CodeSandbox"
+            },
+            {
+              "id": "cjhdij0052e5r0161chl736tm",
+              "name": " ‹Rethinker stop={false}/›"
+            },
+            {
+              "id": "cjhdd7nod0vav0153agbzfbrg",
+              "name": "Live and Machine Learn"
+            },
+            {
+              "id": "cjhg2j39q1o2z01012473h4go",
+              "name": "Love, Internet Style"
+            },
+            {
+              "id": "cjhg2uglq1qfz01852aom58pz",
+              "name": "The power of vulnerability"
+            },
+            {
+              "id": "cjhg2zpub1tgo0151hb6blavw",
+              "name": "Shining a light"
+            },
+            {
+              "id": "cjhja2xph0py10146c584k1bu",
+              "name": "Stop Over-Engenering"
+            },
+            {
+              "id": "cjhki0zg1127v0185utn97f2f",
+              "name": "A Talk About Nothing"
+            },
+            {
+              "id": "cjhm26h7f3bc301288ven9o1c",
+              "name": "The myth of the “Real JavaScript Developer”"
+            },
+            {
+              "id": "cjhg1t1g31h4u0101i0t2l5vu",
+              "name": "This is bigger than us: Building a future for Open Source"
+            },
+            {
+              "id": "cjhf30omz1h7001998jyh5yrg",
+              "name": "Zero to 60 in Software Development: How to Jumpstart Your Career"
+            },
+            {
+              "id": "cji4c494d295o01206ruxl29u",
+              "name": "Is JavaScript Making Us Better Professionals?"
+            },
+            {
+              "id": "cjibtf1el038y0189orz9ulzi",
+              "name": "Get Your Priorities Straight"
+            },
+            {
+              "id": "cjhmg5bdx1xm6019169ubrvr2",
+              "name": "How I Quit My Job and Became a Programmer in Less Than 5 Months"
+            },
+            {
+              "id": "cjhytym5r1v94013577n0xui8",
+              "name": "A new architecture"
+            },
+            {
+              "id": "cji30xp520etq0189awfa2egk",
+              "name": "The thrilling potential of SixthSense technology "
+            },
+            {
+              "id": "cjkcw7zcl4xbr0186dsoma19i",
+              "name": "The Journey To Full Time Open Source"
+            },
+            {
+              "id": "cjmqfttgp0j260164yzfm15lo",
+              "name": "Making Sense"
+            },
+            {
+              "id": "cjhn6aiyr1r8z0142q9s1tq9n",
+              "name": "Making Badass Developers"
+            }
+          ]
+        },
+        {
+          "id": "cjhg0axyh13460195gookni3c",
+          "name": "React",
+          "videos": [
+            {
+              "id": "cjhf9aqx20sdj0104r5n6680l",
+              "name": "The Melting Pot of JavaScript"
+            },
+            {
+              "id": "cjhf33tkd1i3i0199bx3x1svh",
+              "name": "A Cartoon Intro to Fiber"
+            },
+            {
+              "id": "cjhf0zivf0urq01912ho8bgkw",
+              "name": " React: Rethinking best practices"
+            },
+            {
+              "id": "cjhf0d0ux0pov0177m4g2kjkm",
+              "name": "Never Write Another HoC"
+            },
+            {
+              "id": "cjhdij0052e5r0161chl736tm",
+              "name": " ‹Rethinker stop={false}/›"
+            },
+            {
+              "id": "cjhddagqy0vy10153kjp6avt8",
+              "name": "Do the Right (to Left) Thing: Directional Content in React"
+            },
+            {
+              "id": "cjhg27zxz1m7m0151ywzxohjg",
+              "name": "Fun With Fiber Custom Renderers"
+            },
+            {
+              "id": "cjhgjriqz24gw0171xdhdi7mf",
+              "name": "D3 & React"
+            },
+            {
+              "id": "cjhl3oohz3ihb019094erflnc",
+              "name": "Bringing Components to Legacy Code"
+            },
+            {
+              "id": "cjhlasbof2f1s0105l6o9y6ck",
+              "name": "Zero Config GraphQL State Management"
+            },
+            {
+              "id": "cjhm3t8gc093l0155y7pt9f8w",
+              "name": "Styling React.js Applications"
+            },
+            {
+              "id": "cjhnxywfv2m4s0193ixyuyxvm",
+              "name": "The Case for Whimsy"
+            },
+            {
+              "id": "cjhllb3dq314f0128qdhouddf",
+              "name": "Oh Composable World"
+            },
+            {
+              "id": "cjhuojeez0ale0164ab5mc9dd",
+              "name": "Infinitely Better UIs with Finite Automata"
+            },
+            {
+              "id": "cjhupczdp0ofv0188dy2fonth",
+              "name": "Back to React: The Story of Two Apps"
+            },
+            {
+              "id": "cjhw0loze2mx40189msj0vd3t",
+              "name": "Mixed Mode React"
+            },
+            {
+              "id": "cjhuj9zmp1ptf0174bbv769mt",
+              "name": "Razzle: React Server Rendering Without the Framework"
+            },
+            {
+              "id": "cjhuj8mni1pqv0154l21iyprx",
+              "name": "Formik"
+            },
+            {
+              "id": "cjhf7rlic0bt00120vwpbzupb",
+              "name": "Live React: Hot Reloading with Time Travel"
+            },
+            {
+              "id": "cjhdd5dvf0ukf0121ynvsidal",
+              "name": "Beyond React 16"
+            },
+            {
+              "id": "cjhnntn761z0u0106yn31fpo1",
+              "name": "setState Machine"
+            },
+            {
+              "id": "cjhf0p1e40sjq0173cl1f5fdk",
+              "name": "Bridging React Native Back to its Roots"
+            },
+            {
+              "id": "cjj72bxuj0exr0175s2orbpkv",
+              "name": "DOM as a Second-class Citizen"
+            },
+            {
+              "id": "cjhp2bzek1l7101847oi2su6a",
+              "name": "Jest & Enzyme Complement Each Other"
+            },
+            {
+              "id": "cjhyvs76f2pqk01460q47u0ku",
+              "name": "Rethinking With React 16"
+            },
+            {
+              "id": "cjhxulycn1ez901538k84s57q",
+              "name": "State Management in React Apps with Apollo Client"
+            }
+          ]
+        },
+        {
+          "id": "cjhg0bcw9138q01016huz9ayo",
+          "name": "Story",
+          "videos": [
+            {
+              "id": "cjhf97kc80rfl01202a4dknsi",
+              "name": "Things that Matter"
+            },
+            {
+              "id": "cjhf946f10qub01921c6jel17",
+              "name": "Secrets of Being a UX Team of One"
+            },
+            {
+              "id": "cjhf8p6l10lus0120431du0n5",
+              "name": "Testing Distributed Systems w/ Deterministic Simulation"
+            },
+            {
+              "id": "cjhf5uq4t2bp20199a57uykwe",
+              "name": "Antichamber: An Overnight Success, Seven Years In The Making"
+            },
+            {
+              "id": "cjhf5rbth29or0191vi2t4ute",
+              "name": "Hammock Driven Development"
+            },
+            {
+              "id": "cjhf5q7qx2awj0177co4qtetr",
+              "name": "Simple made easy"
+            },
+            {
+              "id": "cjhf3ey2l1lwk0177edfkwxxx",
+              "name": "The journey of a package from the npm registry to your computer"
+            },
+            {
+              "id": "cjhf0uy590vbq0157xy7qvwnt",
+              "name": "I want you to contribute to open source"
+            },
+            {
+              "id": "cjhf0k3cd0q260191jpfwbmmi",
+              "name": "A year of CodeSandbox"
+            },
+            {
+              "id": "cjhdd9e470vkw0161b2mk6l8g",
+              "name": "Humanizing Your Documentation"
+            },
+            {
+              "id": "cjhg0srs517zs0162u0zvnhig",
+              "name": "How to crash an airplane"
+            },
+            {
+              "id": "cjhg0v9g018o20195jliopp3s",
+              "name": "The Original Skunk Works"
+            },
+            {
+              "id": "cjhg1css01cwz0101qtjwibn2",
+              "name": "Evolution of a Developer"
+            },
+            {
+              "id": "cjhg1jvxi1ejp0185vfbj2jdc",
+              "name": "Engineer/Artist"
+            },
+            {
+              "id": "cjhg1mu4g1fnu0195ch4lr1r2",
+              "name": "What we can do about the culture of hate"
+            },
+            {
+              "id": "cjhg1oh2k1gwq0151sc91rz9r",
+              "name": "Your body language may shape who you are"
+            },
+            {
+              "id": "cjhg2gn811nkx0101hfdmsh14",
+              "name": "Why Functional Programming Matters"
+            },
+            {
+              "id": "cjhg2j39q1o2z01012473h4go",
+              "name": "Love, Internet Style"
+            },
+            {
+              "id": "cjhg2qtzf1qd90152gfeffenh",
+              "name": "How Designers Destroyed the World"
+            },
+            {
+              "id": "cjhg2ruzd1p340186mlkpu9vt",
+              "name": "F*ck You, Pay Me"
+            },
+            {
+              "id": "cjhg2zpub1tgo0151hb6blavw",
+              "name": "Shining a light"
+            },
+            {
+              "id": "cjhg8nzbj10fj0161thh8lvvb",
+              "name": "Big Bang Redesign: Smashing Magazine’s 2017 Relaunch"
+            },
+            {
+              "id": "cjhg8rs3l12h40134opi8ujic",
+              "name": " Stress & Depression – a Taboo in our Time"
+            },
+            {
+              "id": "cjhgnouc60qz20122wbfitamd",
+              "name": "The Myth of the Genius Programmer"
+            },
+            {
+              "id": "cjhja2xph0py10146c584k1bu",
+              "name": "Stop Over-Engenering"
+            },
+            {
+              "id": "cjhja0iwj0pje0163n400i34a",
+              "name": "The Silver Bullet Syndrome"
+            },
+            {
+              "id": "cjhkf4vnz3c840170411kr2zc",
+              "name": "The True Internet of things"
+            },
+            {
+              "id": "cjhkef85z32fq0113ozhon4b6",
+              "name": "Ease at Work"
+            },
+            {
+              "id": "cjhkv8och3diq0154yrr5qt75",
+              "name": "Code the Change You Want to See in the World: Building An App to Make Growing Food Simple"
+            },
+            {
+              "id": "cjhja37as0qlg0107bct8nvfj",
+              "name": "Developers are strange creatures"
+            },
+            {
+              "id": "cjhg1bgc11bls018608015wkx",
+              "name": "The Truth About Imposter Syndrome"
+            },
+            {
+              "id": "cjhkljkcy2g5i0130v51gpzlv",
+              "name": "Inside the mind of a master procrastinator"
+            },
+            {
+              "id": "cjhf30omz1h7001998jyh5yrg",
+              "name": "Zero to 60 in Software Development: How to Jumpstart Your Career"
+            },
+            {
+              "id": "cjhs0epip3bhg0146zv61mfe2",
+              "name": "Your brain doesn't have a fix flag"
+            },
+            {
+              "id": "cjkz0wwyk0hu50132alk0t4hq",
+              "name": " We All Started Somewhere"
+            },
+            {
+              "id": "cjljfpzzc01k90193q3srobm8",
+              "name": "Burnout"
+            },
+            {
+              "id": "cjhn6aiyr1r8z0142q9s1tq9n",
+              "name": "Making Badass Developers"
+            }
+          ]
+        },
+        {
+          "id": "cjhg0bs8813nc0151ukoy8q12",
+          "name": "UX",
+          "videos": [
+            {
+              "id": "cjhf946f10qub01921c6jel17",
+              "name": "Secrets of Being a UX Team of One"
+            },
+            {
+              "id": "cjhf2w8yj1gtj0177i69r3lhn",
+              "name": "Designing Interfaces That Think"
+            },
+            {
+              "id": "cjhmbqycd3vl80164ylbq71pu",
+              "name": "Unified UX"
+            },
+            {
+              "id": "cjhq1jcdk1uwg0104bdwylkrg",
+              "name": "Writing Less Damned Code"
+            },
+            {
+              "id": "cji3gde573snf0189dg2r10d7",
+              "name": "Dealing with heats in the UX world"
+            },
+            {
+              "id": "cjif86aup19uo0138jghcufsh",
+              "name": "Designing A Fantastic UX With Psychology"
+            }
+          ]
+        },
+        {
+          "id": "cjhg0bwrj13o30151u7hi4mhv",
+          "name": "Design",
+          "videos": [
+            {
+              "id": "cjhf946f10qub01921c6jel17",
+              "name": "Secrets of Being a UX Team of One"
+            },
+            {
+              "id": "cjhf2w8yj1gtj0177i69r3lhn",
+              "name": "Designing Interfaces That Think"
+            },
+            {
+              "id": "cjhg2qtzf1qd90152gfeffenh",
+              "name": "How Designers Destroyed the World"
+            },
+            {
+              "id": "cjhhm6gpq0jn601007rb74bg2",
+              "name": "Accessibility and inclusive design"
+            },
+            {
+              "id": "cjhkcb7kv28e80178a2gy25wq",
+              "name": "How to Build an Atomic Bomb"
+            },
+            {
+              "id": "cjhllw2ox3a440103ojt3h8sd",
+              "name": "When “Good Enough” just isn’t good enough"
+            },
+            {
+              "id": "cjhytym5r1v94013577n0xui8",
+              "name": "A new architecture"
+            }
+          ]
+        },
+        {
+          "id": "cjhg0cf3q131c0162lhpxv7uw",
+          "name": "Elm",
+          "videos": [
+            {
+              "id": "cjhf8vqht0o6p01737jio0gjb",
+              "name": "Making Impossible States Impossible"
+            },
+            {
+              "id": "cjhf2zkim1hti0163b4ng1usx",
+              "name": "From jQuery to Flux to Elm"
+            },
+            {
+              "id": "cjhvje8cz36xa0185oj9nfkqo",
+              "name": "The Life of a File"
+            }
+          ]
+        },
+        {
+          "id": "cjhg0cw2i12tq0152dwxweli5",
+          "name": "Computer Science",
+          "videos": [
+            {
+              "id": "cjhf8t59f0mcj01393w23mznz",
+              "name": "Kolmogorov music"
+            },
+            {
+              "id": "cjhf8p6l10lus0120431du0n5",
+              "name": "Testing Distributed Systems w/ Deterministic Simulation"
+            },
+            {
+              "id": "cjhf875mx0giy0120yyyvu6ei",
+              "name": "Turning the database inside out with Apache Samza"
+            },
+            {
+              "id": "cjhf5naox286x0191c10d0wt4",
+              "name": " The Future of Programming"
+            },
+            {
+              "id": "cjhg0srs517zs0162u0zvnhig",
+              "name": "How to crash an airplane"
+            },
+            {
+              "id": "cjhg2nk931q3001516ca99xza",
+              "name": "Debugging with the Scientific Method"
+            },
+            {
+              "id": "cjhg8u3hc12yu0116nojyhb2d",
+              "name": "Growing a Language"
+            },
+            {
+              "id": "cjhgdj2xg00bq0131zmpykfgh",
+              "name": "How to name things: the hardest problem in programming"
+            },
+            {
+              "id": "cjhgdldi4016a0171i6auu8yj",
+              "name": "Stop Teaching C"
+            },
+            {
+              "id": "cjhja2xph0py10146c584k1bu",
+              "name": "Stop Over-Engenering"
+            },
+            {
+              "id": "cjhja2lit0r8i0156490v55ja",
+              "name": "Safety-Critical Systems"
+            },
+            {
+              "id": "cjhja2c8i0q6n01638p9tqv5u",
+              "name": "How Can Software Be So Hard?"
+            },
+            {
+              "id": "cjhj9fk8m0gto0163fdklrvfs",
+              "name": "The How and Why of Fitting Things Together"
+            },
+            {
+              "id": "cjhk9xr6a197q0113rf7tm5po",
+              "name": "Software Environmentalism"
+            },
+            {
+              "id": "cjhk9jmw8143h0170oa62x1qo",
+              "name": "Is It really \"Complex\"? Or did we just make it \"Complicated\"?"
+            },
+            {
+              "id": "cjhk9hwkx12pc0113binc0cch",
+              "name": "Normal Considered Harmful"
+            },
+            {
+              "id": "cjhj9g3f00gfy0146b499nkb6",
+              "name": "The Mess We're In"
+            },
+            {
+              "id": "cjhj9tqok0mac0169vfyrubpe",
+              "name": " How Conway's Law is eating your job?"
+            },
+            {
+              "id": "cjhj9ur2l0mn40169k9qh6rfk",
+              "name": "Our decentralized future"
+            },
+            {
+              "id": "cjhk87glq0km30113u8oc5iid",
+              "name": "Two Effective Algorithms for Time Series Forecasting"
+            },
+            {
+              "id": "cjhgdhd1c2jay0134cc0y3315",
+              "name": " Nothing is Something"
+            },
+            {
+              "id": "cjhf3bq2l1m3s01578hgevagl",
+              "name": "The Value of Values"
+            },
+            {
+              "id": "cjhm6wuza1nwh01556dfschr6",
+              "name": "On Abstraction"
+            },
+            {
+              "id": "cjhltxqzi37c10161w4t4ytsn",
+              "name": "Get Kata"
+            },
+            {
+              "id": "cji30xp520etq0189awfa2egk",
+              "name": "The thrilling potential of SixthSense technology "
+            },
+            {
+              "id": "cji088zym1fxq01042nubgt71",
+              "name": "Knit One, Compute One"
+            },
+            {
+              "id": "cjjs7dl690ugl01167b0dcb9i",
+              "name": "Real Software Engineering"
+            },
+            {
+              "id": "cjkz1vghw0p0o0188i4slp2fm",
+              "name": "/Reg(exp){2}lained/: Demystifying Regular Expressions"
+            },
+            {
+              "id": "cjl7m2f780jg80137qr6nxsl4",
+              "name": "Debugging the Tech Industry: A Talk about You and Me"
+            }
+          ]
+        },
+        {
+          "id": "cjhg0d5vw13cx0162h18nt4yv",
+          "name": "Testing",
+          "videos": [
+            {
+              "id": "cjhf8p6l10lus0120431du0n5",
+              "name": "Testing Distributed Systems w/ Deterministic Simulation"
+            },
+            {
+              "id": "cjhgjl7bg20vn0105c0ixevcd",
+              "name": " Integrated Tests Are A Scam"
+            },
+            {
+              "id": "cjhp2bzek1l7101847oi2su6a",
+              "name": "Jest & Enzyme Complement Each Other"
+            }
+          ]
+        },
+        {
+          "id": "cjhg0e2ns13wl0101195y0r2o",
+          "name": "Funny",
+          "videos": [
+            {
+              "id": "cjhf0xcao0un00199ln0r1ojp",
+              "name": "Stop Writing Code"
+            },
+            {
+              "id": "cjhg2ruzd1p340186mlkpu9vt",
+              "name": "F*ck You, Pay Me"
+            },
+            {
+              "id": "cjhkcu2nd2f2i0101m25kcrsb",
+              "name": "programmers_are_evil()"
+            },
+            {
+              "id": "cjhf8juu40lbn01864ral6d4v",
+              "name": "Wat"
+            },
+            {
+              "id": "cjhos37ys0x520157zb4pb90e",
+              "name": "Understanding the Differences Is Accepting"
+            },
+            {
+              "id": "cji5w8n1g0nj60134fx4h2hma",
+              "name": "Life after Death by Powerpoint"
+            }
+          ]
+        },
+        {
+          "id": "cjhg0nxwf164l0101czd5huq2",
+          "name": "React Native",
+          "videos": [
+            {
+              "id": "cjhllw2ox3a440103ojt3h8sd",
+              "name": "When “Good Enough” just isn’t good enough"
+            },
+            {
+              "id": "cjhf0p1e40sjq0173cl1f5fdk",
+              "name": "Bridging React Native Back to its Roots"
+            },
+            {
+              "id": "cjlz7ho0q0hcb0118rp6mnumr",
+              "name": "Shared element transition with React Native"
+            },
+            {
+              "id": "cjmnl8urq0ki70138ms3lwr5h",
+              "name": "This is a Talk About You"
+            }
+          ]
+        },
+        {
+          "id": "cjhg0pta1179f0195fxd1owas",
+          "name": "Machine Learning",
+          "videos": [
+            {
+              "id": "cjhdd7nod0vav0153agbzfbrg",
+              "name": "Live and Machine Learn"
+            },
+            {
+              "id": "cjhlartro2d2o01133yksao3b",
+              "name": "Machine intelligence makes human morals more important"
+            },
+            {
+              "id": "cjhufpal205kc0162lce4miqd",
+              "name": "Shaving My Head Made Me a Better Programmer"
+            },
+            {
+              "id": "cjhnwno4v245t0155zycb6i7x",
+              "name": "Scaling Deep Learning Models in Production Using Kubernetes"
+            }
+          ]
+        },
+        {
+          "id": "cjhg0qgyv17140185a9g96djj",
+          "name": "Documentation",
+          "videos": [
+            {
+              "id": "cjhdd9e470vkw0161b2mk6l8g",
+              "name": "Humanizing Your Documentation"
+            },
+            {
+              "id": "cjqwib0bq0wy40154x3b3o7hr",
+              "name": "Building Empathy-Driven Developer Documentation"
+            },
+            {
+              "id": "cjqwidy4f0x2z0115dg6v5iwn",
+              "name": "Even Naming This Talk Is Hard"
+            },
+            {
+              "id": "cjqwid62z0x750154s9vdimi9",
+              "name": "What nobody tells you about documentation"
+            },
+            {
+              "id": "cjqwi8zyc0wfx0115vbd108z7",
+              "name": "Don't Say Simply"
+            }
+          ]
+        },
+        {
+          "id": "cjhg0qv5417gi0162qms6qvl0",
+          "name": "Accessibility",
+          "videos": [
+            {
+              "id": "cjhddagqy0vy10153kjp6avt8",
+              "name": "Do the Right (to Left) Thing: Directional Content in React"
+            },
+            {
+              "id": "cjhhm6gpq0jn601007rb74bg2",
+              "name": "Accessibility and inclusive design"
+            },
+            {
+              "id": "cjhl6mha20ol00105gi1vesbo",
+              "name": "Radically Accessible Internet Applications 💯"
+            },
+            {
+              "id": "cjhme3yuh13hu0164zaucc5ps",
+              "name": "Empathy-Driven Development"
+            },
+            {
+              "id": "cjhq1jcdk1uwg0104bdwylkrg",
+              "name": "Writing Less Damned Code"
+            },
+            {
+              "id": "cjibtf1el038y0189orz9ulzi",
+              "name": "Get Your Priorities Straight"
+            }
+          ]
+        },
+        {
+          "id": "cjhg0xzhg190d0185dj2w0irs",
+          "name": "Angular",
+          "videos": [
+            {
+              "id": "cjhg0y26119vh0151gppqokhl",
+              "name": "Generative Art in Angular 2"
+            },
+            {
+              "id": "cjhg12mc91a3m0185lo7dzhs9",
+              "name": "Everything is a Stream"
+            },
+            {
+              "id": "cjhkv8och3diq0154yrr5qt75",
+              "name": "Code the Change You Want to See in the World: Building An App to Make Growing Food Simple"
+            },
+            {
+              "id": "cjhmb6jlq3m4g016431ehtgbz",
+              "name": "Optimizing an Angular Application"
+            }
+          ]
+        },
+        {
+          "id": "cjhg1b8nh1cls0152eqs0reeb",
+          "name": "Personal",
+          "videos": [
+            {
+              "id": "cjhg1oh2k1gwq0151sc91rz9r",
+              "name": "Your body language may shape who you are"
+            },
+            {
+              "id": "cjhg2uglq1qfz01852aom58pz",
+              "name": "The power of vulnerability"
+            },
+            {
+              "id": "cjhg8rs3l12h40134opi8ujic",
+              "name": " Stress & Depression – a Taboo in our Time"
+            },
+            {
+              "id": "cjhgnouc60qz20122wbfitamd",
+              "name": "The Myth of the Genius Programmer"
+            },
+            {
+              "id": "cjhja0iwj0pje0163n400i34a",
+              "name": "The Silver Bullet Syndrome"
+            },
+            {
+              "id": "cjhkf4vnz3c840170411kr2zc",
+              "name": "The True Internet of things"
+            },
+            {
+              "id": "cjhkef85z32fq0113ozhon4b6",
+              "name": "Ease at Work"
+            },
+            {
+              "id": "cjhk9hwkx12pc0113binc0cch",
+              "name": "Normal Considered Harmful"
+            },
+            {
+              "id": "cjhjyhp4b06q20113wtbiwxrc",
+              "name": "The Soul of Software"
+            },
+            {
+              "id": "cjhk1sgpj1jmu0103jsao9n1l",
+              "name": "I am #Transformed"
+            },
+            {
+              "id": "cjhki1shj12k60185o835v2wp",
+              "name": "Unhappiness at Work"
+            },
+            {
+              "id": "cjhja37as0qlg0107bct8nvfj",
+              "name": "Developers are strange creatures"
+            },
+            {
+              "id": "cjhg1bgc11bls018608015wkx",
+              "name": "The Truth About Imposter Syndrome"
+            },
+            {
+              "id": "cjhs0epip3bhg0146zv61mfe2",
+              "name": "Your brain doesn't have a fix flag"
+            },
+            {
+              "id": "cjhmg26jq1xx901641zf2znda",
+              "name": "Stating the Obvious"
+            },
+            {
+              "id": "cjhmg5bdx1xm6019169ubrvr2",
+              "name": "How I Quit My Job and Became a Programmer in Less Than 5 Months"
+            },
+            {
+              "id": "cjljfpzzc01k90193q3srobm8",
+              "name": "Burnout"
+            },
+            {
+              "id": "cjmnl8urq0ki70138ms3lwr5h",
+              "name": "This is a Talk About You"
+            }
+          ]
+        },
+        {
+          "id": "cjhg1m06y1fdk01015q4q7wi8",
+          "name": "Society",
+          "videos": [
+            {
+              "id": "cjhg1mu4g1fnu0195ch4lr1r2",
+              "name": "What we can do about the culture of hate"
+            },
+            {
+              "id": "cjhg2uglq1qfz01852aom58pz",
+              "name": "The power of vulnerability"
+            },
+            {
+              "id": "cjhkef85z32fq0113ozhon4b6",
+              "name": "Ease at Work"
+            },
+            {
+              "id": "cjhkcb7kv28e80178a2gy25wq",
+              "name": "How to Build an Atomic Bomb"
+            },
+            {
+              "id": "cjhk9jmw8143h0170oa62x1qo",
+              "name": "Is It really \"Complex\"? Or did we just make it \"Complicated\"?"
+            },
+            {
+              "id": "cjhk9hwkx12pc0113binc0cch",
+              "name": "Normal Considered Harmful"
+            },
+            {
+              "id": "cjhj9g3f00gfy0146b499nkb6",
+              "name": "The Mess We're In"
+            },
+            {
+              "id": "cjhjyhp4b06q20113wtbiwxrc",
+              "name": "The Soul of Software"
+            },
+            {
+              "id": "cjhki1shj12k60185o835v2wp",
+              "name": "Unhappiness at Work"
+            },
+            {
+              "id": "cjhkmp2ah2yvj01308wfngvym",
+              "name": "Lending Privilege"
+            },
+            {
+              "id": "cjhkljkcy2g5i0130v51gpzlv",
+              "name": "Inside the mind of a master procrastinator"
+            },
+            {
+              "id": "cjhufpal205kc0162lce4miqd",
+              "name": "Shaving My Head Made Me a Better Programmer"
+            },
+            {
+              "id": "cjl7m2f780jg80137qr6nxsl4",
+              "name": "Debugging the Tech Industry: A Talk about You and Me"
+            }
+          ]
+        },
+        {
+          "id": "cjhg8vg73139s01166jgjmg25",
+          "name": "Ruby",
+          "videos": [
+            {
+              "id": "cjhg8w4le14680144sdwittxv",
+              "name": "All the Little Things"
+            },
+            {
+              "id": "cjhhhquyv1m0401978h1btu1j",
+              "name": "Boundaries"
+            },
+            {
+              "id": "cjhgdhd1c2jay0134cc0y3315",
+              "name": " Nothing is Something"
+            },
+            {
+              "id": "cjig7ohsu1n980197xh9guwof",
+              "name": "Get a Whiff of This"
+            }
+          ]
+        },
+        {
+          "id": "cjhgjmcbi20ds0149hootybxs",
+          "name": "Security",
+          "videos": [
+            {
+              "id": "cjhgjncn921j40105qkuf0znn",
+              "name": "Code as Risk "
+            },
+            {
+              "id": "cjhja2lit0r8i0156490v55ja",
+              "name": "Safety-Critical Systems"
+            },
+            {
+              "id": "cjhja2c8i0q6n01638p9tqv5u",
+              "name": "How Can Software Be So Hard?"
+            },
+            {
+              "id": "cjhktj3ll2jpl0171pdwuxyb2",
+              "name": "NoSQL Shouldn’t Mean NoSecurity"
+            }
+          ]
+        },
+        {
+          "id": "cjhgjq7xl22sc0105imdicvtz",
+          "name": "Agile",
+          "videos": [
+            {
+              "id": "cjhgjq998242u0171qmqozs77",
+              "name": "Myths About Agile Testing, De-Bunked"
+            },
+            {
+              "id": "cjhja1brq0q2p0145kjlpxmxz",
+              "name": "Not Just Code Monkeys"
+            }
+          ]
+        },
+        {
+          "id": "cjhhjhtmm22060198td08oxah",
+          "name": "Clojure",
+          "videos": [
+            {
+              "id": "cjhgkpb002fy5010561pkb1a7",
+              "name": "To The Moon"
+            },
+            {
+              "id": "cjhj9vakh0nyv0156kc3xh1m2",
+              "name": "The Language of the System"
+            }
+          ]
+        },
+        {
+          "id": "cjhjbpibr1gkn0156ek6k23uh",
+          "name": "Morten Rand-Hendriksen",
+          "videos": []
+        },
+        {
+          "id": "cjhjllp142chs018059kdfzai",
+          "name": "Elixir",
+          "videos": [
+            {
+              "id": "cjhja108h0pqa01074c6bhg49",
+              "name": "Elixir Should Take Over the World"
+            }
+          ]
+        },
+        {
+          "id": "cjhkg07z409tr018561qf5ehb",
+          "name": "IOT",
+          "videos": [
+            {
+              "id": "cjhkf4vnz3c840170411kr2zc",
+              "name": "The True Internet of things"
+            },
+            {
+              "id": "cjhlv8pb407jx019362xvqrdc",
+              "name": "How I ended up automating my curtains and shouting at my laptop"
+            },
+            {
+              "id": "cjiskeoyy0yd40117qv4vxx4z",
+              "name": "Using New Web APIs For Your Own Pleasure"
+            }
+          ]
+        },
+        {
+          "id": "cjhkg49y80ays0148pmxji073",
+          "name": "Django",
+          "videos": [
+            {
+              "id": "cjhkcdvlj29pb0170wbvq2h5l",
+              "name": "The Dungeon Masters guide to Django"
+            },
+            {
+              "id": "cjhk89qf10l3c0177ntgpwdqg",
+              "name": "Scaling Instagram Infrastructure"
+            }
+          ]
+        },
+        {
+          "id": "cjhkg97nw0cr701488y6mkd8o",
+          "name": "Erlang",
+          "videos": [
+            {
+              "id": "cjhj9fk8m0gto0163fdklrvfs",
+              "name": "The How and Why of Fitting Things Together"
+            }
+          ]
+        },
+        {
+          "id": "cjhkgtkp80jzu01317fh49we3",
+          "name": "Microservices",
+          "videos": [
+            {
+              "id": "cjhk8bmji0lpp0177qytrek2j",
+              "name": "Managing Data in Microservices"
+            },
+            {
+              "id": "cjhk86p2m0kus0178lf8rfezu",
+              "name": "ETL Is Dead, Long Live Streams: real-time streams"
+            },
+            {
+              "id": "cjhk89qf10l3c0177ntgpwdqg",
+              "name": "Scaling Instagram Infrastructure"
+            },
+            {
+              "id": "cjhk854ob0jee0177dkl0b5kb",
+              "name": "Mastering Chaos - A Netflix Guide to Microservices"
+            }
+          ]
+        },
+        {
+          "id": "cjhkgxy390n3v01919gvb6tji",
+          "name": "Scaling",
+          "videos": [
+            {
+              "id": "cjhk86p2m0kus0178lf8rfezu",
+              "name": "ETL Is Dead, Long Live Streams: real-time streams"
+            },
+            {
+              "id": "cjhk89qf10l3c0177ntgpwdqg",
+              "name": "Scaling Instagram Infrastructure"
+            }
+          ]
+        },
+        {
+          "id": "cjhkk9tgd1xhy0131q13uq3t2",
+          "name": "Refactoring",
+          "videos": [
+            {
+              "id": "cjhkhxquq0zgo01432nxv4t32",
+              "name": "Therapeutic Refactoring"
+            }
+          ]
+        },
+        {
+          "id": "cjhkkhlem21rf0191k3a2g6jb",
+          "name": "Management",
+          "videos": [
+            {
+              "id": "cjhkj7j1y1ip20142aplfa82v",
+              "name": "Managing Your Manager"
+            },
+            {
+              "id": "cji0n8rfk0jz90148zff55mfq",
+              "name": "Make the Right Thing the Easy Thing: Designing Processes Teams Will Actually Follow"
+            }
+          ]
+        },
+        {
+          "id": "cjhl5zs3t0f1j0113zfbex25m",
+          "name": "ReasonML",
+          "videos": [
+            {
+              "id": "cjhl26g3k2wee01846p4q6spc",
+              "name": "Universal Reason"
+            },
+            {
+              "id": "cjhl640jk0grw01056rcndme6",
+              "name": "A Pragmatists's Guide to ReasonML"
+            },
+            {
+              "id": "cjhoal3gm0uhq0138cc7bun10",
+              "name": "What's in a language?"
+            },
+            {
+              "id": "cjhoakt7j0uuj0160pmt48xxm",
+              "name": "Taming the Meta Language"
+            }
+          ]
+        },
+        {
+          "id": "cjhl68vnh0ilh0100b5zr4njq",
+          "name": "WebAssembly",
+          "videos": [
+            {
+              "id": "cjhkzi9pu1owq0142cgr3toc4",
+              "name": "Do things faster with WebAssembly"
+            },
+            {
+              "id": "cjhoy90gs01fg010602cpjw3n",
+              "name": "Webpack + WebAssembly: Under the hood"
+            },
+            {
+              "id": "cji21h8ic44q20148sii242m4",
+              "name": "A Cartoon Intro to WebAssembly"
+            }
+          ]
+        },
+        {
+          "id": "cjhlsxy4o2srq0138tme9d6is",
+          "name": "GraphQL",
+          "videos": [
+            {
+              "id": "cjhlasbof2f1s0105l6o9y6ck",
+              "name": "Zero Config GraphQL State Management"
+            },
+            {
+              "id": "cjhxulycn1ez901538k84s57q",
+              "name": "State Management in React Apps with Apollo Client"
+            }
+          ]
+        },
+        {
+          "id": "cjhmb6rzw3m7h01641vakmfkt",
+          "name": "Preact",
+          "videos": [
+            {
+              "id": "cjhlafo262881011394sn5rae",
+              "name": "Preact: Into the void 0"
+            }
+          ]
+        },
+        {
+          "id": "cjhny4bad2nqe01944npfpzit",
+          "name": "Software Architecture",
+          "videos": [
+            {
+              "id": "cjhm6wuza1nwh01556dfschr6",
+              "name": "On Abstraction"
+            },
+            {
+              "id": "cjihg2n2x1jbm0156va4mjtda",
+              "name": "SOLID Object-Oriented Design"
+            }
+          ]
+        },
+        {
+          "id": "cjhomlu6c264w0193ewmewr3o",
+          "name": "Async+Await",
+          "videos": [
+            {
+              "id": "cjhomohd824pr01427044m4py",
+              "name": "Async + Await"
+            }
+          ]
+        },
+        {
+          "id": "cjhoy8ih3019r01846v9s61ss",
+          "name": "Webpack",
+          "videos": [
+            {
+              "id": "cjhoy90gs01fg010602cpjw3n",
+              "name": "Webpack + WebAssembly: Under the hood"
+            }
+          ]
+        },
+        {
+          "id": "cjhpzpbie15hq012980yctj1e",
+          "name": "Serverless",
+          "videos": [
+            {
+              "id": "cjhpfn1g605hc0149hkt4hk1r",
+              "name": "Serverless and you"
+            }
+          ]
+        },
+        {
+          "id": "cjhqht9jl1qhw0157r3cg6f1z",
+          "name": "Functional Programming",
+          "videos": [
+            {
+              "id": "cjhllb3dq314f0128qdhouddf",
+              "name": "Oh Composable World"
+            },
+            {
+              "id": "cji0nadrb0lxe0142eijawimi",
+              "name": "Who Gives a Fuck About a Monad? Functional Programming for People Who Hate Math"
+            },
+            {
+              "id": "cji4d0q2s2kbl0196jb1bjovm",
+              "name": "Pure functional programming in Excel"
+            },
+            {
+              "id": "cjhmnd0oq18cy0114k0lqkwne",
+              "name": "Programming Across Paradigms"
+            },
+            {
+              "id": "cjlxub76k0izv01272fmxrhdz",
+              "name": "Domain Modeling Made Functional "
+            }
+          ]
+        },
+        {
+          "id": "cjhu9ohfy1epx0194fhgxfd3p",
+          "name": "OCaml",
+          "videos": [
+            {
+              "id": "cjhsacnmc03ou0143n0l406tq",
+              "name": "Effective ML"
+            }
+          ]
+        },
+        {
+          "id": "cjhua67me1lrd0192ceo1ecdm",
+          "name": "Video Games",
+          "videos": [
+            {
+              "id": "cjhlem3090f0k01034d3y2b18",
+              "name": "Porting Retro City Rampage to MS-DOS: From PS4 to 1.44MB Floppy"
+            },
+            {
+              "id": "cjil85t5t1q7e0194wdaiqvuw",
+              "name": "Diablo: A Classic Game Postmortem"
+            }
+          ]
+        },
+        {
+          "id": "cjhua6gta1lwc0192ou9d4htm",
+          "name": "Optimization",
+          "videos": [
+            {
+              "id": "cjhlem3090f0k01034d3y2b18",
+              "name": "Porting Retro City Rampage to MS-DOS: From PS4 to 1.44MB Floppy"
+            },
+            {
+              "id": "cjk3uhm0z63kj0156oxxu2ivg",
+              "name": "The 7 Principles of rich web applications"
+            }
+          ]
+        },
+        {
+          "id": "cjhuaanhf1n3u0122bx4s2mpz",
+          "name": "Kubernetes",
+          "videos": [
+            {
+              "id": "cjhlgfwj815jm0159nioyx5co",
+              "name": "An Introduction to Kubernetes"
+            },
+            {
+              "id": "cjhnwno4v245t0155zycb6i7x",
+              "name": "Scaling Deep Learning Models in Production Using Kubernetes"
+            }
+          ]
+        },
+        {
+          "id": "cji0dp8or00dk01877vcx73a5",
+          "name": "NativeScript",
+          "videos": [
+            {
+              "id": "cjhyze6wj0i760161f5qxs0fz",
+              "name": "Create an Engaging Native Mobile App with Vue and NativeScript"
+            }
+          ]
+        },
+        {
+          "id": "cjiaa46dt1qt80165b9wby992",
+          "name": "Python",
+          "videos": [
+            {
+              "id": "cjhm62xrr1b1i0135upiqk4dz",
+              "name": "Beyond PEP8 - Best practices for beautiful intelligible code"
+            }
+          ]
+        },
+        {
+          "id": "cjihg27yx1hg801036be1htne",
+          "name": "Object-Oriented Programming",
+          "videos": [
+            {
+              "id": "cjihg2n2x1jbm0156va4mjtda",
+              "name": "SOLID Object-Oriented Design"
+            },
+            {
+              "id": "cjhmnd0oq18cy0114k0lqkwne",
+              "name": "Programming Across Paradigms"
+            }
+          ]
+        },
+        {
+          "id": "cjke200ro3jsc0142maqtdf4f",
+          "name": "Open Source",
+          "videos": [
+            {
+              "id": "cjkcw7zcl4xbr0186dsoma19i",
+              "name": "The Journey To Full Time Open Source"
+            }
+          ]
+        },
+        {
+          "id": "cjmnkyxi20j8c0195mexxcozs",
+          "name": "Kotlin",
+          "videos": [
+            {
+              "id": "cjm36e2zs18690144cp497s4y",
+              "name": "fun() Talk: Exploring Kotlin Functions"
+            }
+          ]
+        }
+      ]
+    }
+  }
